@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="FCRGm_lXvD4L7OINphgf" name="Page-1">
-        <mxGraphModel dx="1351" dy="788" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1545" dy="801" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -17,7 +17,7 @@
                     <mxGeometry x="658" y="336" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;API Gateway&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="210" y="224" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="224" y="224" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8" target="14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -29,7 +29,7 @@
                     <mxGeometry x="658" y="112" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Logging/Kafka&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="210" y="336" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="224" y="336" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Search Engine&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
                     <mxGeometry x="658" y="224" width="120" height="60" as="geometry"/>
@@ -95,7 +95,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Client (web and mobile apps)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="42" y="224" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="56" y="224" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mail/Notification&lt;br&gt;Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
                     <mxGeometry x="658" width="120" height="60" as="geometry"/>
